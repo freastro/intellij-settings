@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <removed_mapping ext="hql" type="Hibernate QL" />
+      <mapping ext="hql" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
