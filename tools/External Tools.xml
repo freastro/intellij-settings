@@ -2,7 +2,7 @@
   <tool name="Webpack" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/local/bin/webpack" />
-      <option name="PARAMETERS" value="-d" />
+      <option name="PARAMETERS" value="-p --devtool source-map" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/Components/dashboard-engine/server/src/main/webapp/configurator" />
     </exec>
   </tool>
