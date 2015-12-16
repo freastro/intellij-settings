@@ -28,7 +28,6 @@
         <option name="FOREGROUND" value="937121" />
       </value>
     </option>
-    <option name="CSS.COLOR" baseAttributes="CSS.IDENT" />
     <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
