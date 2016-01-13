@@ -3,7 +3,6 @@
     <extensionMap>
       <removed_mapping ext="hql" type="Hibernate QL" />
       <mapping ext="args" type="PLAIN_TEXT" />
-      <mapping ext="jj" type="PLAIN_TEXT" />
       <mapping ext="hql" type="SQL" />
     </extensionMap>
   </component>
