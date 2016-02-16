@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'dashboard-engine'" />
     <option name="defaultScopeName" value="Project 'dashboard-engine'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'dashboard-engine'" />
   </component>
 </application>
