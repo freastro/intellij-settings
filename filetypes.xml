@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <removed_mapping ext="g" type="ANTLR Grammar" />
+      <mapping ext="g" type="ANTLR v4 grammar file" />
       <removed_mapping ext="hql" type="Hibernate QL" />
       <mapping ext="args" type="PLAIN_TEXT" />
       <mapping ext="hql" type="SQL" />
