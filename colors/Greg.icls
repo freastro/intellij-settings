@@ -103,16 +103,13 @@
         <option name="FOREGROUND" value="f9ee98" />
       </value>
     </option>
-    <option name="JAVA_COMMA" baseAttributes="DEFAULT_COMMA" />
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_SEMICOLON" baseAttributes="DEFAULT_SEMICOLON" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="937121" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="baae9e" />
