@@ -141,6 +141,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/intellij-java-google-style.xml" />
+  </component>
   <component name="DependencyUISettings">
     <option name="UI_SHOW_FILES" value="false" />
   </component>
