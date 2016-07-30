@@ -144,9 +144,6 @@
   <component name="CodeStyleSchemesUIConfiguration">
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/intellij-java-google-style.xml" />
   </component>
-  <component name="DependencyUISettings">
-    <option name="UI_SHOW_FILES" value="false" />
-  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="5.0.0" last-modified="1446157832000" />
     <node-interpreter path="/usr/local/Cellar/node/5.0.0/bin/node" version="5.0.0" last-modified="1446157832000" />
