@@ -3,6 +3,7 @@
     <option name="UI_SHOW_FILES" value="false" />
   </component>
   <component name="UISettings">
+    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
