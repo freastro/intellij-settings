@@ -5,6 +5,7 @@
       <mapping ext="schema" type="JSON" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="DOCKERFILE" type="PLAIN_TEXT" />
+      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping ext="args" type="PLAIN_TEXT" />
       <mapping ext="hql" type="SQL" />
       <mapping ext="g" type="ANTLR v4 grammar file" />
