@@ -1,0 +1,4 @@
+<keymap version="1" name="Greg" parent="Mac OS X 10.5+">
+  <action id="Diff.SelectedChange" />
+  <action id="GotoChangedFile" />
+</keymap>
