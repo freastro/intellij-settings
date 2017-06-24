@@ -7,6 +7,7 @@
       <mapping pattern="nifi-controller-service-configuration" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="KyloSparkProperties" type="PLAIN_TEXT" />
       <mapping ext="args" type="PLAIN_TEXT" />
       <mapping ext="rst" type="PLAIN_TEXT" />
       <mapping ext="hql" type="SQL" />
